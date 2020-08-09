@@ -1,0 +1,9 @@
+c:\users\infoc07\documents\visual studio 2015\Projects\Game\Game\bin\Debug\Game.exe.config
+c:\users\infoc07\documents\visual studio 2015\Projects\Game\Game\bin\Debug\Game.exe
+c:\users\infoc07\documents\visual studio 2015\Projects\Game\Game\bin\Debug\Game.pdb
+c:\users\infoc07\documents\visual studio 2015\Projects\Game\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+c:\users\infoc07\documents\visual studio 2015\Projects\Game\Game\obj\Debug\Game.Form1.resources
+c:\users\infoc07\documents\visual studio 2015\Projects\Game\Game\obj\Debug\Game.Properties.Resources.resources
+c:\users\infoc07\documents\visual studio 2015\Projects\Game\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+c:\users\infoc07\documents\visual studio 2015\Projects\Game\Game\obj\Debug\Game.exe
+c:\users\infoc07\documents\visual studio 2015\Projects\Game\Game\obj\Debug\Game.pdb

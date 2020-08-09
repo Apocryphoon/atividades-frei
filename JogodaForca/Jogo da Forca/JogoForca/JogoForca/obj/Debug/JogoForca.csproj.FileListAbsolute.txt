@@ -1,0 +1,26 @@
+c:\users\vitor\documents\visual studio 2017\Projects\JogoForca\JogoForca\bin\Debug\JogoForca.exe.config
+c:\users\vitor\documents\visual studio 2017\Projects\JogoForca\JogoForca\bin\Debug\JogoForca.exe
+c:\users\vitor\documents\visual studio 2017\Projects\JogoForca\JogoForca\bin\Debug\JogoForca.pdb
+c:\users\vitor\documents\visual studio 2017\Projects\JogoForca\JogoForca\bin\Debug\MySql.Data.dll
+c:\users\vitor\documents\visual studio 2017\Projects\JogoForca\JogoForca\bin\Debug\MySql.Data.xml
+c:\users\vitor\documents\visual studio 2017\Projects\JogoForca\JogoForca\obj\Debug\JogoForca.csprojResolveAssemblyReference.cache
+c:\users\vitor\documents\visual studio 2017\Projects\JogoForca\JogoForca\obj\Debug\JogoForca.frmTelaInic.resources
+c:\users\vitor\documents\visual studio 2017\Projects\JogoForca\JogoForca\obj\Debug\JogoForca.Properties.Resources.resources
+c:\users\vitor\documents\visual studio 2017\Projects\JogoForca\JogoForca\obj\Debug\JogoForca.csproj.GenerateResource.Cache
+c:\users\vitor\documents\visual studio 2017\Projects\JogoForca\JogoForca\obj\Debug\JogoForca.exe
+c:\users\vitor\documents\visual studio 2017\Projects\JogoForca\JogoForca\obj\Debug\JogoForca.pdb
+c:\users\vitor\documents\visual studio 2017\Projects\JogoForca\JogoForca\obj\Debug\JogoForca.frmAddPalavra.resources
+c:\users\vitor\documents\visual studio 2017\Projects\JogoForca\JogoForca\obj\Debug\JogoForca.frmJogo.resources
+C:\Users\infoc43\Desktop\Jogo da Forca\Jogo da Forca\JogoForca\JogoForca\bin\Debug\JogoForca.exe.config
+C:\Users\infoc43\Desktop\Jogo da Forca\Jogo da Forca\JogoForca\JogoForca\obj\Debug\JogoForca.exe
+C:\Users\infoc43\Desktop\Jogo da Forca\Jogo da Forca\JogoForca\JogoForca\obj\Debug\JogoForca.pdb
+C:\Users\infoc43\Desktop\Jogo da Forca\Jogo da Forca\JogoForca\JogoForca\bin\Debug\JogoForca.exe
+C:\Users\infoc43\Desktop\Jogo da Forca\Jogo da Forca\JogoForca\JogoForca\bin\Debug\JogoForca.pdb
+C:\Users\infoc43\Desktop\Jogo da Forca\Jogo da Forca\JogoForca\JogoForca\bin\Debug\MySql.Data.dll
+C:\Users\infoc43\Desktop\Jogo da Forca\Jogo da Forca\JogoForca\JogoForca\bin\Debug\MySql.Data.xml
+C:\Users\infoc43\Desktop\Jogo da Forca\Jogo da Forca\JogoForca\JogoForca\obj\Debug\JogoForca.csprojResolveAssemblyReference.cache
+C:\Users\infoc43\Desktop\Jogo da Forca\Jogo da Forca\JogoForca\JogoForca\obj\Debug\JogoForca.frmJogo.resources
+C:\Users\infoc43\Desktop\Jogo da Forca\Jogo da Forca\JogoForca\JogoForca\obj\Debug\JogoForca.frmTelaInic.resources
+C:\Users\infoc43\Desktop\Jogo da Forca\Jogo da Forca\JogoForca\JogoForca\obj\Debug\JogoForca.frmAddPalavra.resources
+C:\Users\infoc43\Desktop\Jogo da Forca\Jogo da Forca\JogoForca\JogoForca\obj\Debug\JogoForca.Properties.Resources.resources
+C:\Users\infoc43\Desktop\Jogo da Forca\Jogo da Forca\JogoForca\JogoForca\obj\Debug\JogoForca.csproj.GenerateResource.Cache

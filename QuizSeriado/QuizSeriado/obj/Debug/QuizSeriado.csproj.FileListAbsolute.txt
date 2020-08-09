@@ -1,0 +1,9 @@
+c:\users\infoc43\documents\visual studio 2015\Projects\QuizSeriado\QuizSeriado\bin\Debug\QuizSeriado.exe.config
+c:\users\infoc43\documents\visual studio 2015\Projects\QuizSeriado\QuizSeriado\bin\Debug\QuizSeriado.exe
+c:\users\infoc43\documents\visual studio 2015\Projects\QuizSeriado\QuizSeriado\bin\Debug\QuizSeriado.pdb
+c:\users\infoc43\documents\visual studio 2015\Projects\QuizSeriado\QuizSeriado\obj\Debug\QuizSeriado.frmQuiz.resources
+c:\users\infoc43\documents\visual studio 2015\Projects\QuizSeriado\QuizSeriado\obj\Debug\QuizSeriado.Properties.Resources.resources
+c:\users\infoc43\documents\visual studio 2015\Projects\QuizSeriado\QuizSeriado\obj\Debug\QuizSeriado.csproj.GenerateResource.Cache
+c:\users\infoc43\documents\visual studio 2015\Projects\QuizSeriado\QuizSeriado\obj\Debug\QuizSeriado.exe
+c:\users\infoc43\documents\visual studio 2015\Projects\QuizSeriado\QuizSeriado\obj\Debug\QuizSeriado.pdb
+c:\users\infoc43\documents\visual studio 2015\Projects\QuizSeriado\QuizSeriado\obj\Debug\QuizSeriado.csprojResolveAssemblyReference.cache

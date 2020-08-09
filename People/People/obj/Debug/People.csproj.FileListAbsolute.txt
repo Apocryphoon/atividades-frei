@@ -1,0 +1,9 @@
+c:\users\infoc43\documents\visual studio 2015\Projects\People\People\bin\Debug\People.exe.config
+c:\users\infoc43\documents\visual studio 2015\Projects\People\People\bin\Debug\People.exe
+c:\users\infoc43\documents\visual studio 2015\Projects\People\People\bin\Debug\People.pdb
+c:\users\infoc43\documents\visual studio 2015\Projects\People\People\obj\Debug\People.csprojResolveAssemblyReference.cache
+c:\users\infoc43\documents\visual studio 2015\Projects\People\People\obj\Debug\People.Form1.resources
+c:\users\infoc43\documents\visual studio 2015\Projects\People\People\obj\Debug\People.Properties.Resources.resources
+c:\users\infoc43\documents\visual studio 2015\Projects\People\People\obj\Debug\People.csproj.GenerateResource.Cache
+c:\users\infoc43\documents\visual studio 2015\Projects\People\People\obj\Debug\People.exe
+c:\users\infoc43\documents\visual studio 2015\Projects\People\People\obj\Debug\People.pdb

@@ -1,0 +1,12 @@
+c:\users\vitor\documents\visual studio 2017\Projects\TrocandoPastas\TrocandoPastas\bin\Debug\TrocandoPastas.exe.config
+c:\users\vitor\documents\visual studio 2017\Projects\TrocandoPastas\TrocandoPastas\bin\Debug\TrocandoPastas.exe
+c:\users\vitor\documents\visual studio 2017\Projects\TrocandoPastas\TrocandoPastas\bin\Debug\TrocandoPastas.pdb
+c:\users\vitor\documents\visual studio 2017\Projects\TrocandoPastas\TrocandoPastas\obj\Debug\TrocandoPastas.csprojResolveAssemblyReference.cache
+c:\users\vitor\documents\visual studio 2017\Projects\TrocandoPastas\TrocandoPastas\obj\Debug\TrocandoPastas.Form1.resources
+c:\users\vitor\documents\visual studio 2017\Projects\TrocandoPastas\TrocandoPastas\obj\Debug\TrocandoPastas.Properties.Resources.resources
+c:\users\vitor\documents\visual studio 2017\Projects\TrocandoPastas\TrocandoPastas\obj\Debug\TrocandoPastas.csproj.GenerateResource.Cache
+c:\users\vitor\documents\visual studio 2017\Projects\TrocandoPastas\TrocandoPastas\obj\Debug\TrocandoPastas.exe
+c:\users\vitor\documents\visual studio 2017\Projects\TrocandoPastas\TrocandoPastas\obj\Debug\TrocandoPastas.pdb
+C:\Users\infoc43\Documents\Visual Studio 2015\Projects\TrocandoPastas\TrocandoPastas\bin\Debug\TrocandoPastas.exe.config
+C:\Users\infoc43\Documents\Visual Studio 2015\Projects\TrocandoPastas\TrocandoPastas\obj\Debug\TrocandoPastas.exe
+C:\Users\infoc43\Documents\Visual Studio 2015\Projects\TrocandoPastas\TrocandoPastas\obj\Debug\TrocandoPastas.pdb

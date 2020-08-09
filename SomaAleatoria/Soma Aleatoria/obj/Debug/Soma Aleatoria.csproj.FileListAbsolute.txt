@@ -1,0 +1,9 @@
+c:\users\infoc07\documents\visual studio 2015\Projects\Soma Aleatoria\Soma Aleatoria\bin\Debug\Soma Aleatoria.exe.config
+C:\Users\infoc07\documents\visual studio 2015\Projects\Soma Aleatoria\Soma Aleatoria\bin\Debug\Soma Aleatoria.exe
+C:\Users\infoc07\documents\visual studio 2015\Projects\Soma Aleatoria\Soma Aleatoria\bin\Debug\Soma Aleatoria.pdb
+C:\Users\infoc07\documents\visual studio 2015\Projects\Soma Aleatoria\Soma Aleatoria\obj\Debug\Soma Aleatoria.csprojResolveAssemblyReference.cache
+C:\Users\infoc07\documents\visual studio 2015\Projects\Soma Aleatoria\Soma Aleatoria\obj\Debug\Soma_Aleatoria.Form1.resources
+C:\Users\infoc07\documents\visual studio 2015\Projects\Soma Aleatoria\Soma Aleatoria\obj\Debug\Soma_Aleatoria.Properties.Resources.resources
+C:\Users\infoc07\documents\visual studio 2015\Projects\Soma Aleatoria\Soma Aleatoria\obj\Debug\Soma Aleatoria.csproj.GenerateResource.Cache
+C:\Users\infoc07\documents\visual studio 2015\Projects\Soma Aleatoria\Soma Aleatoria\obj\Debug\Soma Aleatoria.exe
+C:\Users\infoc07\documents\visual studio 2015\Projects\Soma Aleatoria\Soma Aleatoria\obj\Debug\Soma Aleatoria.pdb

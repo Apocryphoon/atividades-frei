@@ -1,0 +1,9 @@
+c:\users\infoc43\documents\visual studio 2015\Projects\TransferindoArquivos\TransferindoArquivos\bin\Debug\TransferindoArquivos.exe.config
+c:\users\infoc43\documents\visual studio 2015\Projects\TransferindoArquivos\TransferindoArquivos\bin\Debug\TransferindoArquivos.exe
+c:\users\infoc43\documents\visual studio 2015\Projects\TransferindoArquivos\TransferindoArquivos\bin\Debug\TransferindoArquivos.pdb
+c:\users\infoc43\documents\visual studio 2015\Projects\TransferindoArquivos\TransferindoArquivos\obj\Debug\TransferindoArquivos.Form1.resources
+c:\users\infoc43\documents\visual studio 2015\Projects\TransferindoArquivos\TransferindoArquivos\obj\Debug\TransferindoArquivos.Properties.Resources.resources
+c:\users\infoc43\documents\visual studio 2015\Projects\TransferindoArquivos\TransferindoArquivos\obj\Debug\TransferindoArquivos.csproj.GenerateResource.Cache
+c:\users\infoc43\documents\visual studio 2015\Projects\TransferindoArquivos\TransferindoArquivos\obj\Debug\TransferindoArquivos.exe
+c:\users\infoc43\documents\visual studio 2015\Projects\TransferindoArquivos\TransferindoArquivos\obj\Debug\TransferindoArquivos.pdb
+c:\users\infoc43\documents\visual studio 2015\Projects\TransferindoArquivos\TransferindoArquivos\obj\Debug\TransferindoArquivos.csprojResolveAssemblyReference.cache

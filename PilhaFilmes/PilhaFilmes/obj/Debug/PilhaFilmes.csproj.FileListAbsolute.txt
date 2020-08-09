@@ -1,0 +1,9 @@
+c:\users\infoc43\documents\visual studio 2015\Projects\PilhaFilmes\PilhaFilmes\bin\Debug\PilhaFilmes.exe.config
+c:\users\infoc43\documents\visual studio 2015\Projects\PilhaFilmes\PilhaFilmes\bin\Debug\PilhaFilmes.exe
+c:\users\infoc43\documents\visual studio 2015\Projects\PilhaFilmes\PilhaFilmes\bin\Debug\PilhaFilmes.pdb
+c:\users\infoc43\documents\visual studio 2015\Projects\PilhaFilmes\PilhaFilmes\obj\Debug\PilhaFilmes.csprojResolveAssemblyReference.cache
+c:\users\infoc43\documents\visual studio 2015\Projects\PilhaFilmes\PilhaFilmes\obj\Debug\PilhaFilmes.Form1.resources
+c:\users\infoc43\documents\visual studio 2015\Projects\PilhaFilmes\PilhaFilmes\obj\Debug\PilhaFilmes.Properties.Resources.resources
+c:\users\infoc43\documents\visual studio 2015\Projects\PilhaFilmes\PilhaFilmes\obj\Debug\PilhaFilmes.csproj.GenerateResource.Cache
+c:\users\infoc43\documents\visual studio 2015\Projects\PilhaFilmes\PilhaFilmes\obj\Debug\PilhaFilmes.exe
+c:\users\infoc43\documents\visual studio 2015\Projects\PilhaFilmes\PilhaFilmes\obj\Debug\PilhaFilmes.pdb

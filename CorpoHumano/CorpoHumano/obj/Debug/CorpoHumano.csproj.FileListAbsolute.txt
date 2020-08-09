@@ -1,0 +1,9 @@
+c:\users\infoc07\documents\visual studio 2015\Projects\CorpoHumano\CorpoHumano\bin\Debug\CorpoHumano.exe.config
+c:\users\infoc07\documents\visual studio 2015\Projects\CorpoHumano\CorpoHumano\bin\Debug\CorpoHumano.exe
+c:\users\infoc07\documents\visual studio 2015\Projects\CorpoHumano\CorpoHumano\bin\Debug\CorpoHumano.pdb
+c:\users\infoc07\documents\visual studio 2015\Projects\CorpoHumano\CorpoHumano\obj\Debug\CorpoHumano.csprojResolveAssemblyReference.cache
+c:\users\infoc07\documents\visual studio 2015\Projects\CorpoHumano\CorpoHumano\obj\Debug\CorpoHumano.Form1.resources
+c:\users\infoc07\documents\visual studio 2015\Projects\CorpoHumano\CorpoHumano\obj\Debug\CorpoHumano.Properties.Resources.resources
+c:\users\infoc07\documents\visual studio 2015\Projects\CorpoHumano\CorpoHumano\obj\Debug\CorpoHumano.csproj.GenerateResource.Cache
+c:\users\infoc07\documents\visual studio 2015\Projects\CorpoHumano\CorpoHumano\obj\Debug\CorpoHumano.exe
+c:\users\infoc07\documents\visual studio 2015\Projects\CorpoHumano\CorpoHumano\obj\Debug\CorpoHumano.pdb

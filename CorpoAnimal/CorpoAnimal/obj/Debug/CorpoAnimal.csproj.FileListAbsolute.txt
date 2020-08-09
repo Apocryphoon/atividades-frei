@@ -1,0 +1,9 @@
+c:\users\infoc07\documents\visual studio 2015\Projects\CorpoAnimal\CorpoAnimal\bin\Debug\CorpoAnimal.exe.config
+c:\users\infoc07\documents\visual studio 2015\Projects\CorpoAnimal\CorpoAnimal\bin\Debug\CorpoAnimal.exe
+c:\users\infoc07\documents\visual studio 2015\Projects\CorpoAnimal\CorpoAnimal\bin\Debug\CorpoAnimal.pdb
+c:\users\infoc07\documents\visual studio 2015\Projects\CorpoAnimal\CorpoAnimal\obj\Debug\CorpoAnimal.csprojResolveAssemblyReference.cache
+c:\users\infoc07\documents\visual studio 2015\Projects\CorpoAnimal\CorpoAnimal\obj\Debug\CorpoAnimal.Form1.resources
+c:\users\infoc07\documents\visual studio 2015\Projects\CorpoAnimal\CorpoAnimal\obj\Debug\CorpoAnimal.Properties.Resources.resources
+c:\users\infoc07\documents\visual studio 2015\Projects\CorpoAnimal\CorpoAnimal\obj\Debug\CorpoAnimal.csproj.GenerateResource.Cache
+c:\users\infoc07\documents\visual studio 2015\Projects\CorpoAnimal\CorpoAnimal\obj\Debug\CorpoAnimal.exe
+c:\users\infoc07\documents\visual studio 2015\Projects\CorpoAnimal\CorpoAnimal\obj\Debug\CorpoAnimal.pdb

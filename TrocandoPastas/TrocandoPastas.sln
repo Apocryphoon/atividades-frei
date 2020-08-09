@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrocandoPastas", "TrocandoPastas\TrocandoPastas.csproj", "{2BD35DDA-0639-4EF6-AFF2-AC3981161BEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BD35DDA-0639-4EF6-AFF2-AC3981161BEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BD35DDA-0639-4EF6-AFF2-AC3981161BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BD35DDA-0639-4EF6-AFF2-AC3981161BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BD35DDA-0639-4EF6-AFF2-AC3981161BEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
